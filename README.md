@@ -1,2 +1,3 @@
-# This is "Book Directory" project made by using REST API, NodeJS, ExpressJS
+# This is "Book Directory" project 
+🔥 Made by using REST API, NodeJS, ExpressJS, AWS
 
